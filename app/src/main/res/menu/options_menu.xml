@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit_script"
+        android:title="Edit Script" />
+    <item
+        android:id="@+id/execute_script"
+        android:title="Execute Script" />
+    <item
+        android:id="@+id/record_script"
+        android:title="Record Script" />
+    <item
+        android:id="@+id/select_script"
+        android:title="Select Script" />
+</menu>
