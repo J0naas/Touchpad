@@ -1,5 +1,5 @@
 ## Screenshots
 
-![ ](images/connecting.png)
-![ ](images/connection_menu.png)
+![ ](images/connecting.jpg)
+![ ](images/connection_menu.jpg)
 
